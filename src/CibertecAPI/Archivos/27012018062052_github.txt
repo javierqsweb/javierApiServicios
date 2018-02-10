@@ -1,0 +1,1 @@
+https://github.com/smithasencios/VS2015_NetCore/blob/Clase_6_2/SlnCibertec/src/Cibertec.DADapper/Repository.cs
